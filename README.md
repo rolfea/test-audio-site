@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Just a sandbo for my experiments with the Web Audio API.
+Just a sandbox for my experiments with the Web Audio API.
 
 ## Run It
 
